@@ -1,8 +1,7 @@
 ---
-title: 调研结果
-permalink: /wwww/research-summary
+share_link: https://share.note.sx/gc4mp9xt#Il8dl3U9nAlcuwbvoLBJBAFa6/nPJeMzSuRv/txD5Js
+share_updated: 2026-02-02T17:20:12+08:00
 ---
-
 根据当前的研究现状和描述，可以总结出以下几个主要的研究趋势：
 
 ### 1. **几何一致性与多视角生成**

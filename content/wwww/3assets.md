@@ -1,8 +1,3 @@
----
-title: 3 资产
-permalink: /wwww/asset-3
----
-
 # 1.part部件生成
 1. 对mesh 部件
 2. 输入点云（xpart）
